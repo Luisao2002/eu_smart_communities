@@ -21,7 +21,7 @@
   <div id="nav-collapse" class="navbar-collapse collapse" data-v-7fe02e6f="" style="display: none;">
   <ul class="navbar-nav ml-auto" data-v-7fe02e6f="" pills="">
     <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/">Home</router-link></a></li>
-    <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/about">Agenda</router-link></a></li>
+    <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/Agenda">Agenda</router-link></a></li>
     <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/about">Speakers</router-link></a></li>
     <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/about">Regions</router-link></a></li>
     <li class="nav-item" data-v-7fe02e6f=""><a class="nav-link active router-link-active" data-v-7fe02e6f="" target="_self" aria-current="page"><router-link to="/about">Celebration</router-link></a></li>
