@@ -1,6 +1,13 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import VueMeta from 'vue-meta'
+import VueHead from 'vue-head'
+
+Vue.use(VueHead)
+Vue.use(VueMeta), {
+  keyName: 'head'
+}
 
 Vue.use(VueRouter)
 
