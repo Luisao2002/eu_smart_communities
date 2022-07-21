@@ -55,7 +55,7 @@ export default {
     link:[
       { type: 'text/css', rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Mansalva&display=swap'},
       { type: 'text/css', rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic'},
-      { type: 'text/css', rel: 'stylesheet', href: 'https://irradiare-scripts.s3.amazonaws.com/font-awesome/5.13.0/css/all.min.css'},
+     { type: 'text/css', rel: 'stylesheet', href: 'https://irradiare-scripts.s3.amazonaws.com/font-awesome/5.13.0/css/all.min.css'},
 
       { type: 'text/css', rel: 'stylesheet', href: 'https://irradiare-scripts.s3.amazonaws.com/bootstrap/4.6.1/css/bootstrap.min.css'},
       { type: 'text/css', rel: 'stylesheet', href: 'https://irradiare-scripts.s3.amazonaws.com/bootstrap-vue/2.21.2/bootstrap-vue.min.css'},
