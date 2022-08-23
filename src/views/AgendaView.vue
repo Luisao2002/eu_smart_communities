@@ -1,5 +1,5 @@
 <template>
 <div class="agenda">
-    <h1>Página da Agenda</h1>
+    <h1>Agenda</h1>
 </div>
 </template>
